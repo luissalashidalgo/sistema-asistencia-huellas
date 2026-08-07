@@ -1,2 +1,2 @@
 # sistema-asistencia-huellas
-Sistema para control de ingresos y salidas del personal.
+Sistema para control de ingreso y salida de horario del personal.
