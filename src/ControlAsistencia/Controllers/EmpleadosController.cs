@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace AsistenciaHuellas.Controllers
+namespace ControlAsistencia.Api.Controllers
 {
     [ApiController]
     [Route("api/Empleados")]
